@@ -1,1 +1,1 @@
-# CI_CD_AppDeployUsingJenkinsOnGKE
+# CI/CD AppDeployUsingJenkinsOnGKE
